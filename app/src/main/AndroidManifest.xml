@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.parcial1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icono_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Parcial1">
+        <activity
+            android:name=".Info"
+            android:exported="false" />
+        <activity
+            android:name=".Reproductor"
+            android:exported="false" />
+        <activity
+            android:name=".Acelerometro"
+            android:exported="false" />
+        <activity
+            android:name=".Proximidad"
+            android:exported="false" />
+        <activity
+            android:name=".Tablas"
+            android:exported="false" />
+        <activity
+            android:name=".RecibirDatos"
+            android:exported="true" />
+        <activity
+            android:name=".EnviarTodo"
+            android:exported="true" />
+        <activity
+            android:name=".EnviarDatos"
+            android:exported="true" />
+        <activity
+            android:name=".Inicio"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Menu"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

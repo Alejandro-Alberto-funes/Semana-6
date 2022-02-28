@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">App Multifunciones</string>
+    <string name="tvTitulo1">Bienvenidos/as</string>
+    <string name="btComenzar">Comenzar</string>
+    <string name="tvTitulo2">Elige una opción</string>
+    <string name="btOpcion1">Enviar y Recibir datos</string>
+    <string name="btOpcion2">Tablas</string>
+    <string name="btOpcion3">Sensor de proximidad</string>
+    <string name="btOpcion4">Acelerómetro</string>
+    <string name="btOpcion5">Reproductor de musica</string>
+    <string name="btOpcion6">Acerca de la app</string>
+    <string name="tvTitulo3">Escriba sus datos</string>
+    <string name="etNombre">Escriba su nombre</string>
+    <string name="etApellido">Escriba su apellido</string>
+    <string name="etEdad">Escriba su edad</string>
+    <string name="btEnviar">Enviar Datos</string>
+    <string name="tvTitulo4">Determinar si es mayor de edad</string>
+    <string name="btEnviar2">Enviar Datos</string>
+    <string name="btVolver">Volver a la página anterior</string>
+    <string name="todo">TODO</string>
+    <string name="inicio">Inicio</string>
+    <string name="promociones">Promociones</string>
+    <string name="noticias">Noticias</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fraginicio">Inicio</string>
+    <string name="fragpromociones">Promociones</string>
+    <string name="fragnoticias">Noticias</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvTitulo5">Sensor de proximidad</string>
+    <string name="tvTitulo6">Acelerómetro</string>
+    <string name="opcion1">Audio</string>
+    <string name="opcion2">Video</string>
+    <string name="Iniciar">Iniciar</string>
+    <string name="Detener">Detener</string>
+    <string name="Regresar">Regresar</string>
+    <string name="play">Play</string>
+    <string name="pausa">Pausa</string>
+    <string name="avanzar">Avanzar</string>
+    <string name="Volver">Regresar</string>
+    <string name="Video">Reproductor de video</string>
+    <string name="Audio">Reproductor de audio</string>
+    <string name="titulo">CONTROLES BÁSICOS</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="enviarDatos">ENVIAR DATOS</string>
+    <string name="siguiente">SIGUIENTE INTERFAZ</string>
+    <string name="determinar">DETERMINAR SI ES MAYOR DE EDAD</string>
+    <string name="edad">Escriba su edad</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="info">ACERCA DE</string>
+</resources>
